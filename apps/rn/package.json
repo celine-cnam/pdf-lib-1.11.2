@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@pdf-lib/fontkit": "^0.0.4",
-    "pdf-lib": "./../..",
+    "pdf-lib": "1.17.1",
     "react": "16.8.3",
     "react-native": "0.59.10",
     "react-native-pdf": "^6.1.1",
